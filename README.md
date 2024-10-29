@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello ! I'm Techno. A Web-Dev with a great passion to code. <br>I'm a CyberSec enthusiast.<br>Twitter/Discord Bot Dev.
+Hello ! I'm Techno. A backend dev with a great passion to code. <br>I'm a CyberSec/Infra enthusiast.<br>Hardware Hacker.
 
 
 # 💻 Tech Stack:
@@ -15,8 +15,3 @@ Hello ! I'm Techno. A Web-Dev with a great passion to code. <br>I'm a CyberSec e
 ---
 [![](https://visitcount.itsvg.in/api?id=IM-TECHNO&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/PentesterTechno) 
-
-
-  
