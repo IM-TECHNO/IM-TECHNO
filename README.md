@@ -14,7 +14,7 @@ Hello ! I'm Techno. A backend dev with a great passion to code. <br>I'm a CyberS
 ![](https://github-profile-trophy.vercel.app/?username=IM-TECHNO&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IM-TECHNO&icon=0&color=0)](https://visitcount.itsvg.in)
