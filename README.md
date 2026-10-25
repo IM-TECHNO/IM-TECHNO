@@ -1,91 +1,87 @@
-# Raagul S. | Systems Engineer & CTO
+# Raagul S. | CTO & Systems Engineer
 
-I build software products and the systems that run them.
+I build software products, design backend systems, and engineer the infrastructure that runs them.
 
-I'm a backend engineer and CTO working across backend architecture, infrastructure, DevOps, applied AI, and product engineering. I enjoy understanding systems end to end, from the first API request to the database, deployment pipeline, network, and production environment.
+My work spans backend engineering, DevOps, applied AI, and product development. I care about understanding systems end to end, from application architecture and data flows to deployment pipelines, networking, and production operations.
 
-My focus is on building software that is reliable, observable, maintainable, and practical to operate.
+I believe good engineering is not just about writing code. It is about making deliberate architectural decisions, understanding trade-offs, and taking ownership of systems throughout their lifecycle.
 
-## What I Work On
+## What I Do
 
-- **Backend engineering:** APIs, service architecture, data modeling, performance, and production systems.
-- **Infrastructure & DevOps:** Linux, Docker, Kubernetes, CI/CD, self-hosted infrastructure, and deployment automation.
-- **AI & intelligent systems:** Integrating AI into useful products, workflows, and automation systems.
-- **Developer tools:** Building software that improves operational visibility, simplifies infrastructure management, and gives developers more control.
-- **Systems engineering:** Understanding the layers beneath an application instead of treating infrastructure as someone else's problem.
+- **Engineering leadership:** Technical strategy, architecture, engineering execution, and building development teams.
+- **Backend systems:** API design, distributed services, data modeling, performance, and reliability.
+- **Infrastructure & DevOps:** Linux, containers, Kubernetes, CI/CD, self-hosted infrastructure, and production operations.
+- **AI & automation:** Building intelligent systems and integrating AI into practical products and workflows.
+- **Product engineering:** Taking ideas from architecture and implementation through deployment, operation, and iteration.
 
-## Selected Projects
+## Products & Organizations
 
 ### Ratelane
-**API management and observability**
 
-A platform for monitoring APIs and managing runtime policies. Its SDK and control plane are designed to provide API visibility and configurable enforcement without requiring application redeployments for every policy change.
+**API Management & Observability**
+
+Ratelane is an API management and observability platform focused on giving engineering teams visibility and control over their API infrastructure.
+
+The platform combines application-level telemetry, real-time monitoring, and runtime policy enforcement to help teams manage API behavior without requiring an application redeployment for every policy change.
+
+My focus includes the SDK, backend architecture, telemetry pipeline, policy distribution, infrastructure, and the systems behind the product.
 
 Website: [ratelane.dev](https://ratelane.dev)
 
-### DockTap
-**Open-source Docker management for Android**
+### NeuroHue Therapeutics
 
-A mobile application for managing Docker environments remotely, with container controls, live logs, image management, resource statistics, and network and volume inspection.
+**Health Technology**
 
-Built with React Native, Expo, and TypeScript, with direct communication to the Docker Engine API rather than an intermediary application backend.
+NeuroHue Therapeutics builds technology for healthcare workflows. As CTO, I work across technical strategy, backend architecture, infrastructure, deployment automation, and engineering execution.
 
-Repository: [IM-TECHNO/DockTap](https://github.com/IM-TECHNO/DockTap)
+My responsibilities include building and operating production systems, establishing development workflows, improving reliability, and aligning technical decisions with the needs of the product and organization.
 
-### Infrastructure & Automation
-**Building and operating the stack**
+### AiNest
 
-I work on self-hosted development infrastructure, containerized services, automated deployments, monitoring, and production troubleshooting. I am particularly interested in making infrastructure understandable, reproducible, and easier to operate.
+**Intelligent Systems, Developer Tools & Automation**
+
+AiNest is the broader product-building initiative behind my work in intelligent systems, developer tooling, and automation.
+
+The focus is on designing and building useful software, reducing operational complexity, and creating systems that give developers and businesses greater control over their workflows and infrastructure.
 
 ## Engineering Philosophy
 
-### Own the whole stack
+### Own the entire stack
 
-Abstractions are useful, but understanding what sits beneath them is invaluable. I want to know how an application behaves across its runtime, database, network, infrastructure, and deployment pipeline.
+I prefer understanding how every layer fits together, from application code and databases to operating systems, networking, and deployment infrastructure. Ownership leads to better debugging, better decisions, and fewer assumptions.
 
-### Prefer simplicity over unnecessary complexity
+### Simplicity is an engineering discipline
 
-Every additional service, dependency, and abstraction introduces a cost. I prefer the simplest architecture that satisfies the actual requirements and leaves room for growth.
+Every abstraction and dependency should justify its existence. I value architectures that are straightforward to understand, operate, and evolve over systems that introduce complexity without a clear benefit.
 
-### Build for production, not just the demo
+### Production is part of the product
 
-A successful implementation is more than code that works locally. It needs sensible failure handling, observability, security, predictable deployments, and a practical maintenance strategy.
+Code is only one component of a working system. Deployment, observability, failure recovery, security, and maintainability deserve the same engineering attention as implementation.
 
-### Use AI as leverage, not a substitute for engineering
+### Use tools deliberately
 
-AI can accelerate implementation and exploration, but sound architecture, critical thinking, testing, and operational ownership remain essential.
+Managed services, open-source software, self-hosting, and AI all have their place. I care about understanding their trade-offs and choosing tools based on the problem rather than following trends.
 
-### Value independence and control
+### Build for long-term ownership
 
-I enjoy self-hosting, open-source software, and understanding the tools I depend on. The objective is not to avoid every managed service; it is to make deliberate choices rather than depend on systems I do not understand.
+I value systems that remain understandable and maintainable as they grow. Good engineering should make the next change easier, not make every future change more expensive.
 
-## Technology
+## Technical Focus
 
-**Languages:** Python, TypeScript, JavaScript
+- **Languages:** Python, TypeScript, JavaScript
+- **Backend:** FastAPI, Flask, REST APIs, asynchronous systems
+- **Infrastructure:** Linux, Docker, Kubernetes, k3s, Proxmox
+- **DevOps:** GitLab CI/CD, GitHub Actions, deployment automation
+- **Data systems:** MongoDB, Redis, relational databases
+- **AI & automation:** Applied AI, intelligent systems, workflow automation
 
-**Backend:** FastAPI, Flask, REST APIs, asynchronous systems
-
-**Infrastructure:** Linux, Docker, Kubernetes, k3s, Proxmox
-
-**DevOps:** GitLab CI/CD, GitHub Actions, automated deployments, infrastructure operations
-
-**Data & Messaging:** MongoDB, Redis, relational databases
-
-**AI & Automation:** Applied AI, workflow automation, RPA
-
-My stack evolves with the problems I work on. I care more about understanding a technology's trade-offs than collecting tools for the sake of it.
-
-## Beyond Application Code
-
-I enjoy working close to the infrastructure: self-hosted services, networking, virtualization, hardware, and the operational details that make software dependable.
-
-I am particularly interested in the intersection of software engineering, infrastructure, AI, and independent product development.
+My technology choices evolve with the problems I solve. The objective is not to accumulate tools, but to understand them well enough to make sound engineering decisions.
 
 ## Connect
 
-- Website: [raagul.com](https://raagul.com)
 - GitHub: [@IM-TECHNO](https://github.com/IM-TECHNO)
+- Ratelane: [ratelane.dev](https://ratelane.dev)
 
 ---
 
-*Build things. Understand how they work. Take responsibility for what happens after deployment.*
+*Understand the system. Own the implementation. Engineer for production.*
