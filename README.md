@@ -32,9 +32,11 @@ Website: [ratelane.dev](https://ratelane.dev)
 
 **Health Technology**
 
-NeuroHue Therapeutics builds technology for healthcare workflows. As CTO, I work across technical strategy, backend architecture, infrastructure, deployment automation, and engineering execution.
+NeuroHue Therapeutics builds technology for healthcare workflows. As CTO, I lead technical strategy, engineering, infrastructure, and cross-border operations, supporting the organization's growth across India and Malaysia while preparing for expansion into additional international markets.
 
-My responsibilities include building and operating production systems, establishing development workflows, improving reliability, and aligning technical decisions with the needs of the product and organization.
+My responsibilities span backend architecture, infrastructure, DevOps, security, technical compliance, and operational governance across multiple countries. I oversee the systems, processes, and engineering practices required to maintain reliable operations across different regulatory environments while aligning technology with business objectives.
+
+My focus is on building scalable, secure, and maintainable systems that support international operations, strengthen organizational resilience, and enable sustainable expansion into new markets.
 
 ### AiNest
 
@@ -58,22 +60,11 @@ Every abstraction and dependency should justify its existence. I value architect
 
 Code is only one component of a working system. Deployment, observability, failure recovery, security, and maintainability deserve the same engineering attention as implementation.
 
-### Use tools deliberately
-
-Managed services, open-source software, self-hosting, and AI all have their place. I care about understanding their trade-offs and choosing tools based on the problem rather than following trends.
-
 ### Build for long-term ownership
 
 I value systems that remain understandable and maintainable as they grow. Good engineering should make the next change easier, not make every future change more expensive.
 
 ## Technical Focus
-
-- **Languages:** Python, TypeScript, JavaScript
-- **Backend:** FastAPI, Flask, REST APIs, asynchronous systems
-- **Infrastructure:** Linux, Docker, Kubernetes, k3s, Proxmox
-- **DevOps:** GitLab CI/CD, GitHub Actions, deployment automation
-- **Data systems:** MongoDB, Redis, relational databases
-- **AI & automation:** Applied AI, intelligent systems, workflow automation
 
 My technology choices evolve with the problems I solve. The objective is not to accumulate tools, but to understand them well enough to make sound engineering decisions.
 
